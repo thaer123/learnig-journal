@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-**thaer**
+## Welcome to **thaer** GitHub first Page
+
 
 You can use the [editor on GitHub](https://github.com/thaer123/learnig-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
