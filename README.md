@@ -1,8 +1,8 @@
 ## Welcome to **thaer** GitHub first Page
 
+# Be sure to introduce yourself, and include a link to your GitHub portfolio page
 
-
-**my name is thaer abdallah .i have graduated from ~~jordan universty~~ with computer since major.**
+**My name is thaer abdallah .i have graduated from ~~jordan universty~~ with computer since major.**
 
 # Explain “growth mindset” in your own words
 
