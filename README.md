@@ -13,4 +13,6 @@
 **[2. Include 3 reminders to yourself](#heading--2)**
 
   * [2.1. Basic text formatting](#heading--2-1)
+  * [2.2. Basic text formatting]( https://thaer123.github.io/learnig-journal/design)
+  
 
