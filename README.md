@@ -7,7 +7,7 @@
 
 **[1. thaer](#heading--1)**
 
-  * [1.1.introduce yourself](#heading--1-1)
+  * [1.1.introduce yourself](https://thaer123.github.io/learnig-journal/interd)
   * [1.2. Growth mindset](#heading--1-2)
 
 **[2. Include 3 reminders to yourself](#heading--2)**
