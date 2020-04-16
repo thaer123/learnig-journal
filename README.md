@@ -5,12 +5,12 @@
 
 ## Content
 
-**[1. thaer](#heading--1)**
+**[1. thaer]**
 
   * [1.1.introduce yourself](https://thaer123.github.io/learnig-journal/interd)
   
 
-**[2. Include 3 reminders to yourself](#heading--2)**
+**[2. Include 3 reminders to yourself]**
 
   * [2.1. Basic text formatting](https://thaer123.github.io/learnig-journal/second)
   * [2.2. colores]( https://thaer123.github.io/learnig-journal/design)
