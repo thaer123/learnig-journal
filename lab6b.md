@@ -1,7 +1,9 @@
 DATA TYPES
+
 JavaScript distinguishes between numbers,
 strings, and true or false values known as
 Booleans.
+
 NUMERIC DATA TYPE
 The numeric data type handles
 numbers.
