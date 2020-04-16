@@ -16,7 +16,7 @@
   * [2.2. colores]( https://thaer123.github.io/learnig-journal/design)
   
   
-  **[3.java](#heading--2)**
+  **[3. java]**
   
    * [3.1.Data Types](https://thaer123.github.io/learnig-journal/lab6b)
   * [2.2. Comparison operators]( https://thaer123.github.io/learnig-journal/lab08R)
